@@ -3,17 +3,16 @@
 </h1>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">Tecnologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">License</a>
+  <a href="#memo-license">License</a>
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="Happy" src=".
-  /happy.png" width="100%">
+  <img alt="Happy" src="./happy.png" width="100%">
 </p>
 
 ## 🚀 Technologies
@@ -28,7 +27,7 @@ This project was developed using the following technologies:
 
 ## 💻 Project
 
-Happy is an application that connects people to institutional care homes in order to make many children's day happier 💜
+Happy is an application that connects people to institutional care homes in order to make children's day happier 💜
 
 ## 🔖 Layout
 
