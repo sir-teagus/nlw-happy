@@ -12,7 +12,8 @@
 <br>
 
 <p align="center">
-  <img alt="Happy" src=".github/happy.png" width="100%">
+  <img alt="Happy" src=".
+  /happy.png" width="100%">
 </p>
 
 ## 🚀 Technologies
@@ -38,7 +39,7 @@ You can check the mobile and web layouts using the links below. You will need a 
 
 ## :memo: License
 
-This project is under the MIT lincense. Check this file [LICENSE](LICENSE.md) for more details.
+This project is under the MIT lincense.
 
 ---
 
